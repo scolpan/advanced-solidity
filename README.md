@@ -1,4 +1,4 @@
-# advanced-solidity-homework
+# advanced-solidity
 
 This crowdsale contract allows users to send ETH and get back PUP (PupperCoin).
 This contract will mint the tokens automatically and distribute them to buyers in one transaction. 
